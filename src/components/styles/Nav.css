@@ -1,0 +1,29 @@
+.nav {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    background-color:#0A8989;
+    height: 3.5rem;
+}
+
+.nav__img{
+    margin:  1%;
+}
+
+.nav__pages{
+    margin: 1%;  
+}
+
+.nav__pages-link{
+    outline: none;
+    text-decoration: none;
+    padding: 3%;
+    margin: 5px;
+    color: #152D2D;
+    border-bottom: 1px solid;
+}
+
+.nav__pages-link:hover{
+    border-bottom: 1px #DAD6EF solid;
+    color: #DAD6EF;
+}
