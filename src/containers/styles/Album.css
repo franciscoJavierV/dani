@@ -1,0 +1,16 @@
+.album{
+    background-color: red;
+    
+}
+.album__title{
+    text-align: center;
+    margin-top:2rem;
+    margin-bottom: 3rem;
+}
+.album__imagenes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.album__imagenes-tittle{
+    font-weight: lighter;    
+}
