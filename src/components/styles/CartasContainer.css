@@ -1,3 +1,15 @@
 .CartasContainer{
-    border:1px solid green;
+    display: block;
+    
+}
+.CartasContainer-article{
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    width: 70%;
+}
+.CartasContainer-tittle{
+    text-decoration: underline;
+    font-weight: 700;
 }

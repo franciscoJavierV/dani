@@ -12,10 +12,11 @@ const Home = () => {
         <div className='home'>
             {/* render del nav*/ }
             <Nav/>
+            <h3>Tu diseñaras esta imagen para que sea bonita jaja </h3>
             {/*render de imagen en el home */ }
             <img className='home__img' src={image} alt="logo page"
-             width="200px"
-             height="150px"/>
+             width="100px"
+             height="75px"/>
              {/*reder de componente cartas*/ }
              <CartasContainer/>
         </div>

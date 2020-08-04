@@ -14,9 +14,9 @@ const Nav = () => {
             width="40px"
             height="30px" />
             <div className="nav__pages">
-                <Link className="nav__pages-link" to='#'>Home</Link>
-                <Link className="nav__pages-link" to='#'>Album</Link>
-                <Link className="nav__pages-link" to='#'>Calendario</Link>
+                <Link className="nav__pages-link" to='/'>Home</Link>
+                <Link className="nav__pages-link" to='album'>Album</Link>
+                <Link className="nav__pages-link" to='calendario'>Calendario</Link>
             </div>
         </div>
     )
