@@ -1,6 +1,6 @@
 .album{
-    background-color: red;
-    
+    background-color:#F4F4F4; 
+  
 }
 .album__title{
     text-align: center;
@@ -9,8 +9,12 @@
 }
 .album__imagenes{
     display: flex;
-    justify-content: space-evenly;
+    overflow: scroll;
+    margin-bottom: 15px
 }
 .album__imagenes-tittle{
-    font-weight: lighter;    
+    font-weight: 500;
+    font-size: larger;
+    text-decoration: underline #0A8989;
+    margin-left: 10px;    
 }
