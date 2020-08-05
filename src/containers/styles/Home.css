@@ -1,6 +1,6 @@
 .home {
     width: 100%;
-    height: 35rem;
+    height: max-content;
     text-align: center;
     background-color:#F4F4F4;
 }

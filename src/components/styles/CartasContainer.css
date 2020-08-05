@@ -4,6 +4,7 @@
 }
 .CartasContainer-article{
     margin: 0 auto;
+    padding-top: 20px;
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
@@ -12,4 +13,7 @@
 .CartasContainer-tittle{
     text-decoration: underline;
     font-weight: 700;
+}
+.CartaContainer__article-text{
+    margin: 45px;
 }
