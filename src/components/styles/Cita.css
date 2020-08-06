@@ -1,0 +1,26 @@
+.Citas{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    background-color: honeydew;
+    border-radius: 8px;
+    display: flex;
+    
+}
+.Citas__wrapp{
+    border-radius: 9px;
+}
+.Citas__wrapp-img{
+    padding: 10px;
+    margin-right:25px ;
+}
+.Citas__data{
+    display: flex;
+    margin-left: 15px;
+}
+.Citas__data-item{
+    margin-left:5px;
+    margin-right: 5px;
+    padding: 4px;
+    border-bottom: 3px solid;
+}

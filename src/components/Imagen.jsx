@@ -9,7 +9,7 @@ function Imagen(props) {
                 <img className='imagen__container-img' src={props.img} alt="imagen"/>
             </div>
             <div className="imagen__descripcion">
-                <p className="imagen__descripcion-desc">descripcion</p>
+    <p className="imagen__descripcion-desc">{props.des}</p>
             </div>
         </div>
     )

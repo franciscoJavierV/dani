@@ -5,8 +5,8 @@ export default function CartasContainer() {
     return (
         <div className='CartasContainer'>
             <p className='CartasContainer-tittle'>Cumpleaños 2020</p>
-            <p className='CartasContainer-article'>
-                <h4>Una hermosa carta de cumpleaños</h4>
+            <div className='CartasContainer-article'>
+                <p>Una hermosa carta de cumpleaños</p>
                 <article className="CartaContainer__article-text">
                 Es totalmente admirable la persona que eres, has superado 
                 situaciones increiblemente dificil. Creiste muchas veces que te rendias
@@ -39,7 +39,7 @@ export default function CartasContainer() {
                 me va a pertenecer y sere yo el que se encarge de que ames ese dia 
                 te amo demasiado.
                 </article>
-            </p>
+            </div>
            
         </div>
     )

@@ -1,0 +1,18 @@
+.Calendar{
+    display: block;
+}
+
+.Calendar__content{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 1px solid;
+    background-color:lightblue;
+}
+
+.Calendar__content-tittle{
+    text-align: center;
+}
+.Citas__data-p{
+    font-weight: 600;
+}
